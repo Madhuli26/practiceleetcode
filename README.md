@@ -1,6 +1,6 @@
 # Python LeetCode Practice
 
-17 practice problems (16 LeetCode problems and a custom on-call rotation)
+17 practice problems 
 with typed Python solutions, problem summaries,
 algorithm complexity notes, and automated tests. Requires **Python 3.12+**;
 there are no third-party dependencies.
