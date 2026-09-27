@@ -1,7 +1,7 @@
 [project]
 name = "practiceleetcode"
 version = "0.1.0"
-description = "17 practice problems with automated tests and reports"
+description = "17 Python practice problems with automated tests and reports"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = []
